@@ -19,6 +19,6 @@ what the world needs now is another todo app.
 - [Selenium](http://docs.seleniumhq.org/docs/01_introducing_selenium.jsp) end to end browser testing.
 
 ####Build
-- [NPM](https://github.com/npm/npm)dev package manager.
+- [NPM](https://github.com/npm/npm) dev package manager.
 - [Bower](http://bower.io/) front-end dependency management.
 - [Gulp](http://gulpjs.com/) build scripting.
