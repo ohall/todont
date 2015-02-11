@@ -1,0 +1,25 @@
+{
+  "name": "todont",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ohall/todont",
+  "authors": [
+    "Oakley Hall"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "bootstrap-material-design": "~0.2.2",
+    "handlebars": "~3.0.0",
+    "less": "~2.4.0",
+    "lodash": "~3.1.0"
+  }
+}

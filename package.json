@@ -1,0 +1,25 @@
+{
+  "name": "todont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ohall/todont"
+  },
+  "author": "Oakley Hall <ohall@grtmail.com> (http://www.grassroots-tech.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohall/todont/issues"
+  },
+  "homepage": "https://github.com/ohall/todont",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "gulp": "^3.8.11",
+    "mocha": "^2.1.0",
+    "selenium": "^2.20.0"
+  }
+}
