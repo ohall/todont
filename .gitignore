@@ -3,3 +3,7 @@ node_modules/
 
 #Bower deps
 app/bower_components
+
+
+#IDE
+.idea/
