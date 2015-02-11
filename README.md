@@ -7,6 +7,7 @@ what the world needs now is another todo app.
 ####Client/JS
 - [Backbone](http://backbonejs.org/) mv* framework.
 - [Handlebars](http://handlebarsjs.com/) templating.
+- [lodash](https://lodash.com/) functional programming utilities.
 
 ####Client/CSS
 - [LESS](http://lesscss.org/) css preprocessor. 
